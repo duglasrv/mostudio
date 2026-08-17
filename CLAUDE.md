@@ -20,8 +20,8 @@ contacto + lista de precios.
 - Formulario de contacto: **Formspree** (`https://formspree.io/f/xgvyrvkv`,
   endpoint compartido con el portafolio de developer de Omar por decisión
   explícita suya)
-- Deploy objetivo: **Vercel** (framework preset "Other", sin build command)
-  en el subdominio `foto.rvstudio.dev` (pendiente de confirmar DNS)
+- Deploy: **Vercel** (framework preset "Other", sin build command) — **en
+  producción** en `photography.rvstudio.dev`
 - Repo: https://github.com/duglasrv/mostudio (rama `main`)
 
 ## Reglas críticas de este proyecto
@@ -37,7 +37,10 @@ contacto + lista de precios.
 - Nombres de archivos de fotos en `images/portfolio/` siempre descriptivos
   por categoría (`quince-verde-*`, `retrato-urbano-*`, `paisaje-*`, etc.) —
   nunca dejar nombres tipo `WhatsApp Image...`.
-- El logo/marca del sitio es **RVstudio** (no "Omar Rivera", no "Mostudio").
+- El logo/marca del sitio es **RV Studio** (con espacio, no "Omar Rivera",
+  no "Mostudio", no "RVstudio" sin espacio — rebranding del 2026-08-17).
+  Posicionamiento: "Fotografía · Film · Content". Tagline: "Tus momentos
+  pasan. Tu historia permanece."
 - Precios en Quetzales (Q), nunca USD.
 
 ## Skills relevantes
